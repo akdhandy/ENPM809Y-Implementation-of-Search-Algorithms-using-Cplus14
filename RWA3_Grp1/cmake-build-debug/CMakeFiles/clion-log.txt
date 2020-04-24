@@ -1,0 +1,5 @@
+/snap/clion/111/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/thegodwithinvegeta/CLionProjects/RWA3_Grp1
+-- Configuring done
+Warning: Source file "/home/thegodwithinvegeta/CLionProjects/RWA3_Grp1/cmake-build-debug/main.cpp" is listed multiple times for target "RWA3_Grp1".
+-- Generating done
+-- Build files have been written to: /home/thegodwithinvegeta/CLionProjects/RWA3_Grp1/cmake-build-debug
